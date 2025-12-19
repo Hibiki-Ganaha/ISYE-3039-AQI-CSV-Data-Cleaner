@@ -1,4 +1,4 @@
-Statistical analysis project on air quality in Atlanta, Macon, Athens, and Americus in Georgia with:
+Statistical analysis project using Python and R on air quality in Atlanta, Macon, Athens, and Americus in Georgia with:
 * X-bar charts to examine the stability of the average monthly AQI over time
 * R charts to observe the stability of AQI level variability from month to month
 * P charts were used to determine the proportion of unhealthy air quality scores recorded, using AQI ≥ 101 as the threshold
